@@ -1,2 +1,2 @@
-# NeerajTiwariAlgorithmsAssignmentSolution
-Project2 Algo solution
+# RachitKumarRastogiAlgorithmsAssignmentSolution
+Graded Coding Assignment 2 - Algo
